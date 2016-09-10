@@ -4,3 +4,14 @@
 /home/victor/labrom/catkin_ws/install/setup.sh
 /home/victor/labrom/catkin_ws/install/setup.zsh
 /home/victor/labrom/catkin_ws/install/.rosinstall
+/home/victor/labrom/catkin_ws/install/lib/pkgconfig/rosserial_xbee.pc
+/home/victor/labrom/catkin_ws/install/share/rosserial_xbee/cmake/rosserial_xbeeConfig.cmake
+/home/victor/labrom/catkin_ws/install/share/rosserial_xbee/cmake/rosserial_xbeeConfig-version.cmake
+/home/victor/labrom/catkin_ws/install/share/rosserial_xbee/package.xml
+/home/victor/labrom/catkin_ws/install/lib/rosserial_xbee/setup_xbee.py
+/home/victor/labrom/catkin_ws/install/lib/rosserial_xbee/xbee_network.py
+/home/victor/labrom/catkin_ws/install/lib/pkgconfig/teleop_twist_keyboard.pc
+/home/victor/labrom/catkin_ws/install/share/teleop_twist_keyboard/cmake/teleop_twist_keyboardConfig.cmake
+/home/victor/labrom/catkin_ws/install/share/teleop_twist_keyboard/cmake/teleop_twist_keyboardConfig-version.cmake
+/home/victor/labrom/catkin_ws/install/share/teleop_twist_keyboard/package.xml
+/home/victor/labrom/catkin_ws/install/lib/teleop_twist_keyboard/teleop_twist_keyboard.py
