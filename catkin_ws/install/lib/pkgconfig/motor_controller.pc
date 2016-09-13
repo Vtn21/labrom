@@ -1,7 +1,7 @@
 prefix=/home/victor/labrom/catkin_ws/install
 
-Name: teleop_twist_keyboard
-Description: Description of teleop_twist_keyboard
+Name: motor_controller
+Description: Description of motor_controller
 Version: 0.0.0
 Cflags: 
 Libs: -L/home/victor/labrom/catkin_ws/install/lib 
