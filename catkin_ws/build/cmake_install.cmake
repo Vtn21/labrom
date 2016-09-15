@@ -118,7 +118,7 @@ IF(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   INCLUDE("/home/victor/labrom/catkin_ws/build/gtest/cmake_install.cmake")
   INCLUDE("/home/victor/labrom/catkin_ws/build/rosserial_xbee/cmake_install.cmake")
-  INCLUDE("/home/victor/labrom/catkin_ws/build/motor_controller/cmake_install.cmake")
+  INCLUDE("/home/victor/labrom/catkin_ws/build/mega_blue_bot/cmake_install.cmake")
   INCLUDE("/home/victor/labrom/catkin_ws/build/teleop_twist_keyboard/cmake_install.cmake")
 
 ENDIF(NOT CMAKE_INSTALL_LOCAL_ONLY)

@@ -1,0 +1,8 @@
+prefix=/home/victor/labrom/catkin_ws/devel
+
+Name: mega_blue_bot
+Description: Description of mega_blue_bot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/victor/labrom/catkin_ws/devel/lib 
+Requires: 

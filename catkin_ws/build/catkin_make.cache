@@ -1,2 +1,2 @@
-motor_controller:rosserial_xbee:teleop_twist_keyboard
+mega_blue_bot:rosserial_xbee:teleop_twist_keyboard
 -DCATKIN_DEVEL_PREFIX=/home/victor/labrom/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/victor/labrom/catkin_ws/install -G Unix Makefiles
